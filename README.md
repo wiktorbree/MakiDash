@@ -2,6 +2,8 @@
 
 MakiDash is a mockup iOS application built with SwiftUI that demonstrates a modern interface for a Japanese cuisine ordering system. This demo app showcases SwiftUI implementation techniques, focusing on sushi and other traditional dishes.
 
+![MakiDashGit](https://github.com/user-attachments/assets/d31d58c9-749c-4f03-ac50-7c4de23bfaa3)
+
 ## Features
 
 - 💰 Mock pricing information for menu items
